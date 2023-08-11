@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hi, I'm Jerry, an <a href="https://www.linkedin.com/in/jerryharts/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Jerry, an <a href="https://www.linkedin.com/in/nnamdi-omeire/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
